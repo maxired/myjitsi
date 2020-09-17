@@ -10,3 +10,5 @@ You can test the demo by going using [this instance](https://maxired.github.io/m
 Once the meeting is launched , you will be able to get the custom color and logo from the branding.json file
 
 
+![screenshot](./screenshot.png)
+
